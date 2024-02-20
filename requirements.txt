@@ -44,11 +44,7 @@ fsspec==2023.4.0
 funcsigs==1.0.2
 future==0.18.3
 gast==0.5.4
-google-auth==2.28.0
-google-auth-httplib2==0.2.0
-google-auth-oauthlib==1.2.0
-google-pasta==0.2.0
-googleapis-common-protos==1.62.0
+gunicorn
 grpcio==1.60.1
 grpcio-reflection==1.60.1
 gviz-api==1.10.0
