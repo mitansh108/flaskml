@@ -52,6 +52,7 @@ google-auth-httplib2==0.2.0
 google-auth-oauthlib==1.2.0
 google-pasta==0.2.0
 googleapis-common-protos==1.62.0
+gunicorn==21.2.0
 grpcio==1.60.1
 grpcio-reflection==1.60.1
 gviz-api==1.10.0
